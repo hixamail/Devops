@@ -1,1 +1,2 @@
-print("hello wor d")
+#!/usr/bin/python3
+print("hello word")
